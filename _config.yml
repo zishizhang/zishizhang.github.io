@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : ""
+title                    : "Zishi Zhang"
 description              : ""
 repository               : "zishizhang/zishizhang.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,10 +24,10 @@ author:
   name             : "Zishi Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Peking University"
-  location         : ""
-  employer         : #"Hefei General Machinery Research Institute"
+  location         : #""
+  employer         : #""
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=3pF6A1kAAAAJ"
   email            : "zishizhang@stu.pku.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
