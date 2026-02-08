@@ -51,7 +51,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
   Zishi Zhang, Tao Ren, Yijie Peng.
 - FLOPS: Forward Learning with OPtimal Sampling. **ICLR 2025.**
   Tao Ren, Zishi Zhang\*, Jinyang Jiang, Guanghao Li, Zeliang Zhang, Mingqian Feng, Yijie Peng.
-- Dynamic Assortment Optimization in Live-Streaming Sales. **Winter Simulation Conference 2024.**
+- Dynamic Assortment Optimization in Live-Streaming Sales. **WSC 2024.**
   Zishi Zhang, Haidong Li, Ying Liu, Yijie Peng
 - RiskPO: Risk-based Policy Optimization with Verifiable Reward for LLM Post-Training. **ICLR 2026.**
   Tao Ren, Jinyang Jiang, Hui Yang, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng
@@ -68,6 +68,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 - 
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
