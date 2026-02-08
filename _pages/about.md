@@ -65,9 +65,12 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 
 
 # 🏛️ Talk
-- 
+- Clustering and conquer procedures for large-scale ranking and selection. WSC 2023 phd colloquium. San Antonio, Texas.
+- Clustering and conquer procedures for large-scale ranking and selection. INFORMS Annual 2024. Seattle, Washington.
+- Pretrain-then-finetune: An LLM inspired approach for small-data, large-scale optimization. POMS-HK 2026. Shen Zhen, China.
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
