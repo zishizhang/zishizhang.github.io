@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking University. My research focuses on the interface between Operations Management / Operations Research and AI.
+Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking University. My research interest focuses on the interface between Operations Management (OM)/ Operations Research (OR) and AI.
 
 
 
@@ -68,6 +68,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 - 
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
