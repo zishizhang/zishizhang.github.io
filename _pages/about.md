@@ -29,7 +29,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
-*\* indicates equal contribution.*
+
 ## Working papers
 - LLM-Inspired Pretrain-Then-Finetune for Small-Data, Large-Scale Optimization. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6169687)[[arxiv]](https://arxiv.org/abs/2602.03690)
   
@@ -44,8 +44,8 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 
 
 ## Conference papers
-
-- Half-order Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer. **ICLR 2026 `Oral`**🔥🔥
+*\* indicates equal contribution.*
+- Half-order Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer. **`ICLR 2026 Oral`**🔥🔥
   Tao Ren, Zishi Zhang\*, Zehao Li, Jingyang Jiang, Shentao Qin, Guanghao Li, Yan Li, Yi Zheng, Xinping Li, Min Zhan, Yijie Peng.
 -	Exploring and Exploiting Model Uncertainty in Bayesian Optimization.  **NeurIPS 2025.**
   Zishi Zhang, Tao Ren, Yijie Peng.
@@ -68,6 +68,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 - 
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
