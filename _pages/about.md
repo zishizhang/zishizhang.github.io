@@ -34,7 +34,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 - LLM-Inspired Pretrain-Then-Finetune for Small-Data, Large-Scale Optimization. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6169687)[[arxiv]](https://arxiv.org/abs/2602.03690)
   
   Zishi Zhang, Jinhui Han, Ming Hu, Yijie Peng
-- Nonparametric Bayesian Optimization for General Rewards.
+- Nonparametric Bayesian Optimization for General Rewards. [[arxiv]](https://arxiv.org/abs/2602.07411)
   
   Zishi Zhang, Tao Ren, Yijie Peng
 - Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection. [[arxiv]](https://arxiv.org/abs/2402.02196)
@@ -70,6 +70,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 - *AI, Optimization, and Platform Decisions*. POMS-HK 2026. Shen Zhen, China.
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
