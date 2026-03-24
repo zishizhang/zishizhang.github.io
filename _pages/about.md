@@ -34,7 +34,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 - LLM-Inspired Pretrain-Then-Finetune for Small-Data, Large-Scale Optimization. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6169687)[[arxiv]](https://arxiv.org/abs/2602.03690)
   
   Zishi Zhang, Jinhui Han, Ming Hu, Yijie Peng
-- Optimal low-rank stochastic gradient estimation for LLM training. [[arxiv]](https://arxiv.org/abs/2603.20632)
+- Optimal Low-Rank Stochastic Gradient Estimation for LLM Training. [[arxiv]](https://arxiv.org/abs/2603.20632)
   
   Zehao Li, Tao Ren, Zishi Zhang, Xi Chen, Yijie Peng
 - Nonparametric Bayesian Optimization for General Rewards. [[arxiv]](https://arxiv.org/abs/2602.07411)
