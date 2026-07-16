@@ -39,6 +39,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 - Optimal Low-Rank Stochastic Gradient Estimation for LLM Training. [[arxiv]](https://arxiv.org/abs/2603.20632) Zehao Li, Tao Ren, Zishi Zhang, Xi Chen, Yijie Peng
 
 - Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection. [[arxiv]](https://arxiv.org/abs/2402.02196) Zishi Zhang, Yijie Peng
+    - Under revision at *Naval Research Logistics.* 
   
 
 
