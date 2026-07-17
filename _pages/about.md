@@ -61,7 +61,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 
 # 🚧 Ongoing Work
 
-I am currently working on several projects at the intersection of generative AI, decision-making, and Operations Management.
+I am currently working on several projects at the intersection of generative AI, AI agents and decision-making.
 - **AI agents for Operations Management and social science.** Focusing on AI agents for OM and social science, with two main directions: (i) developing theoretical foundations to understand their limitations and identify potential failure modes; and (ii) designing optimization and debiasing methods to better align them with human being.
 
 - **Generative models for decision-making.** Developing generative modeling approaches for decision-making problems in finance, OM, and related fields.
