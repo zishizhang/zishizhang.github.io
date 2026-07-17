@@ -57,7 +57,16 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
   Tao Ren, Jinyang Jiang, Hui Yang, Wan Tian, Minhao Zou, Guanghao Li, Zishi Zhang, Qinghao Wang, Shentao Qin, Yanjun Zhao, Rui Tao, Hui Shao, Yijie Peng
  
   
+<span class='anchor' id='-ongoing'></span>
 
+# 🚧 Ongoing Work
+
+I am currently working on several projects at the intersection of generative AI, decision-making, and Operations Management.
+- **AI agents for Operations Management and social science.** Focusing on AI agents for OM and social science, with two main directions: (i) developing theoretical foundations to understand their limitations and identify potential failure modes; and (ii) designing optimization and debiasing methods to better align them with human being.
+
+- **Generative models for decision-making.** Developing generative modeling approaches for decision-making problems in finance, OM, and related fields.
+
+- **AI for Science.** Applying AI methods to accelerate scientific discovery in chemistry and other scientific domains.
 
 
 
