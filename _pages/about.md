@@ -64,7 +64,8 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 I am currently working on several projects at the intersection of generative AI, AI agents and decision-making.
 - **AI agents for Operations Management and social science.** Focusing on AI agents for OM applications, such as pricing and recommendation, as well as social science applications. My work has two main directions: (i) developing theoretical foundations to understand their limitations and identify potential failure modes; and (ii) designing optimization and debiasing methods to better align these agents with human preferences, values, and decision-making needs.
 
-- **Generative models for decision-making.** Developing tailored generative models, including Diffusion, GAN-like, and normalizing-flow-like approaches, for decision-making problems in operations management and finance, and establishing their theoretical foundations.
+- **Generative models for decision-making.** Developing tailored generative models (such as GAN-like and diffusion models) for decision-making problems in operations management and finance, and establishing their theoretical foundations.
+
 
 - **AI for Science.** Applying AI methods to accelerate scientific discovery in chemistry and other scientific domains.
 
