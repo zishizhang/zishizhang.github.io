@@ -59,12 +59,12 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
   
 <span class='anchor' id='-ongoing'></span>
 
-# 🚧 Ongoing Work
+# 🚧 Work in progress
 
 I am currently working on several projects at the intersection of generative AI, AI agents and decision-making.
-- **AI agents for Operations Management and social science.** Focusing on AI agents for OM and social science, with two main directions: (i) developing theoretical foundations to understand their limitations and identify potential failure modes; and (ii) designing optimization and debiasing methods to better align them with human being.
+- **AI agents for Operations Management and social science.** Focusing on AI agents for OM applications, such as pricing and recommendation, as well as social science applications. My work has two main directions: (i) developing theoretical foundations to understand their limitations and identify potential failure modes; and (ii) designing optimization and debiasing methods to better align these agents with human preferences, values, and decision-making needs.
 
-- **Generative models for decision-making.** Developing generative modeling approaches for decision-making problems in finance, OM, and related fields.
+- **Generative models for decision-making.** Developing tailored generative models, including Diffusion, GAN-like, and normalizing-flow-like approaches, for decision-making problems in operations management and finance, and establishing their theoretical foundations.
 
 - **AI for Science.** Applying AI methods to accelerate scientific discovery in chemistry and other scientific domains.
 
@@ -73,10 +73,11 @@ I am currently working on several projects at the intersection of generative AI,
 <span class='anchor' id='-ryjx'></span>
 
 
-# 🏛️ Talks
+# 🏛️ Presentations
 - *Phd Colloquium*. Winter Simulation Conference 2023. San Antonio, Texas.
 - *Large-scale simulation optimization*. INFORMS Annual Meeting 2024. Seattle, Washington.
 - *AI, Optimization, and Platform Decisions*. POMS-HK 2026. Shen Zhen, China.
+-  CSAMSE 2026. Shenyang, China.
 
 <span class='anchor' id='-gzsx'></span>
 
