@@ -44,7 +44,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 
 
 ## Conference papers
-*\* indicates equal contribution.*
+*\* indicates equal contribution.*   *(My recent conference work mainly focuses on gradient estimation for foundation-model post-training.)*
 - Half-order Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer. **`ICLR 2026 Oral`**🔥🔥
   Tao Ren, Zishi Zhang\*, Zehao Li, Jingyang Jiang, Shentao Qin, Guanghao Li, Yan Li, Yi Zheng, Xinping Li, Min Zhan, Yijie Peng.
 -	Exploring and Exploiting Model Uncertainty in Bayesian Optimization.  **NeurIPS 2025.**
@@ -62,15 +62,14 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 # 🚧 Work in progress
 
 I am currently working on several projects at the intersection of generative AI, AI agents and decision-making.
-- **AI agents for Operations Management and social science.** Focusing on AI agents for OM applications, such as pricing and recommendation, as well as social science applications. My work has two main directions: (i) developing theoretical foundations to understand their limitations and identify potential failure modes; and (ii) designing optimization and debiasing methods to better align these agents with human preferences, values, and decision-making needs.
+- **Agentic AI for Operations Management and social science.** Focusing on AI agents for OM applications, such as pricing and recommendation, as well as social science applications. My work has two main directions: (i) developing theoretical foundations to understand their limitations and identify potential failure modes; and (ii) designing optimization and debiasing methods to better align these agents with human preferences, values, and decision-making needs.
 
-- **Generative models for decision-making.** Developing tailored generative models (such as GAN-like and diffusion models) for decision-making problems in operations management and finance, and establishing their theoretical foundations.
+- **Generative models for decision-making.** Developing tailored generative models for decision-making problems in operations management and finance, and establishing their theoretical foundations.
 
 
 - **AI for Science.** Applying AI methods to accelerate scientific discovery in chemistry and other scientific domains.
 
-
-
+My research interests lie in core algorithms for AI systems (such as reinforcement learning, efficient post-training techniques, and optimization) together with their theoretical foundations. I am also interested in agentic AI, especially AI agents for human simulation. On the application side, I study how these AI methods can be used to address business problems in operations, supply chains, and finance.
 <span class='anchor' id='-ryjx'></span>
 
 
