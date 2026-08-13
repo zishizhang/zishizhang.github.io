@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking University. My research interest focuses on the interface between Operations Management (OM)/ Operations Research (OR) and AI.
-
-
+Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking University. My research focuses on the interface between Operations Management (OM)/ Operations Research (OR), and AI. 
 
 
 <span class='anchor' id='-xl'></span>
@@ -44,7 +42,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 
 
 ## Conference papers
-*\* indicates equal contribution.*   *(My recent conference work mainly focuses on gradient estimation for foundation-model post-training.)*
+*\* indicates equal contribution.*   
 - Half-order Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer. **`ICLR 2026 Oral`**🔥🔥
   Tao Ren, Zishi Zhang\*, Zehao Li, Jingyang Jiang, Shentao Qin, Guanghao Li, Yan Li, Yi Zheng, Xinping Li, Min Zhan, Yijie Peng.
 -	Exploring and Exploiting Model Uncertainty in Bayesian Optimization.  **NeurIPS 2025.**
@@ -69,7 +67,7 @@ I am currently working on several projects at the intersection of generative AI,
 
 - **AI for Science.** Applying AI methods to accelerate scientific discovery in chemistry and other scientific domains.
 
-My research interests lie in core algorithms for AI systems (such as reinforcement learning, efficient post-training techniques, and optimization) together with their theoretical foundations. I am also interested in agentic AI, especially AI agents for human simulation. On the application side, I study how these AI methods can be used to address business problems in operations, supply chains, and finance.
+
 <span class='anchor' id='-ryjx'></span>
 
 
