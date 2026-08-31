@@ -29,6 +29,8 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 # 📝 Publications
 
 ## Working papers
+- Debiasing AI Simulations with Human Data. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7377338) Jinhui Han, Ming Hu, Zishi Zhang (alphabetical order)
+  
 - LLM-Inspired Pretrain-Then-Finetune for Small-Data, Large-Scale Optimization. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6169687)[[arxiv]](https://arxiv.org/abs/2602.03690) Zishi Zhang, Jinhui Han, Ming Hu, Yijie Peng
 - Nonparametric Bayesian Optimization for General Rewards. [[arxiv]](https://arxiv.org/abs/2602.07411) Zishi Zhang, Tao Ren, Yijie Peng
   
