@@ -28,7 +28,7 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
 
 # 📝 Publications
 
-## Working papers
+## Selected Working Papers
 - Debiasing AI Simulations with Human Data. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7377338) Jinhui Han, Ming Hu, Zishi Zhang (alphabetical order)
   
 - LLM-Inspired Pretrain-Then-Finetune for Small-Data, Large-Scale Optimization. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6169687)[[arxiv]](https://arxiv.org/abs/2602.03690) Zishi Zhang, Jinhui Han, Ming Hu, Yijie Peng
@@ -37,13 +37,14 @@ Hi🙋! I am a PhD student at the Guanghua School of Management (GSM), Peking Un
   - Under revision at *Operations Research.* 
     
 - Optimal Low-Rank Stochastic Gradient Estimation for LLM Training. [[arxiv]](https://arxiv.org/abs/2603.20632) Zehao Li, Tao Ren, Zishi Zhang, Xi Chen, Yijie Peng
+-  Revise and resubmit at *Operations Research*.
 
 - Sample-Efficient "Clustering and Conquer" Procedures for Parallel Large-Scale Ranking and Selection. [[arxiv]](https://arxiv.org/abs/2402.02196) Zishi Zhang, Yijie Peng
     - Under revision at *Naval Research Logistics.* 
   
 
 
-## Conference papers
+## AI Conference Papers
 *\* indicates equal contribution.*   
 - Half-order Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer. **`ICLR 2026 Oral`**🔥🔥
   Tao Ren, Zishi Zhang\*, Zehao Li, Jingyang Jiang, Shentao Qin, Guanghao Li, Yan Li, Yi Zheng, Xinping Li, Min Zhan, Yijie Peng.
